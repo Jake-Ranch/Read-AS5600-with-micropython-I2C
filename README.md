@@ -1,7 +1,7 @@
 # Read-AS5600-with-micropython-I2C
 Read AS5600 magnetic rotary position sensor with micropython I2C
 
-##Usage：
+## Usage：
 ```
 import time
 from machine import Pin,I2C,SoftI2C
